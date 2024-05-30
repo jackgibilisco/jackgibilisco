@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jackgibilisco
+- 👀 I’m interested in so many things
+- 🌱 I’m currently learning c++ and OpenGL
+- 📫 How to reach me: jack.gibilisco@gmail.com
+- 😄 Pronouns: he/him
